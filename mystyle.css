@@ -12,7 +12,11 @@ h2 {
 }
 
 p {
-  font-size:14px;
+  font-size: 20px;
+}
+
+ul {
+  font-size: 20px;
 }
 
 strong {
