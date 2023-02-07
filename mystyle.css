@@ -11,6 +11,10 @@ strong {
   font-weight: bold;
 }
 
+#intro {
+  width: 100%;
+}
+
 #introParagraphContainer {
      width: 33%;
      text-align: center;
