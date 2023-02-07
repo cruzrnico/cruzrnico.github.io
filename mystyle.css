@@ -13,11 +13,11 @@ strong {
 
 #intro {
   width: 100%;
+  text-align: center;
 }
 
 #introParagraphContainer {
      width: 33%;
-     text-align: center;
 }
 
   
