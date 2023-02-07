@@ -5,7 +5,6 @@ body {
 h1 {
   color: #212121;
   text-align: center;
-  font-size: 40px;
 }
 
 h2 {
@@ -23,7 +22,8 @@ strong {
 }
 
 #organizations {
-  magin-left:10%;
+  margin-left: 10%;
+  margin-top: 40px;
 }
 
   
