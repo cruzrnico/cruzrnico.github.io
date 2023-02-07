@@ -12,12 +12,9 @@ strong {
 }
 
 #intro {
-  width: 100%;
+  margin-left: 20%;
+  margin-right: 20%;
   text-align: center;
-}
-
-#introParagraphContainer {
-     width: 33%;
 }
 
   
