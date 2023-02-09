@@ -23,6 +23,13 @@ strong {
   font-weight: bold;
 }
 
+#content {
+  max-width: 100vw;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 #intro {
   margin-left: 20%;
   margin-right: 20%;
@@ -36,31 +43,23 @@ strong {
 
 #photos {
   display: flex;
-  width: 100%;
-  height: 200px;
-}
-
-#photo1Div {
-  width: 33%;
-}
-
-#photo3Div {
-  width: 33%;
+  flex-direction: row;
+  align-content: center;
+  max-width: 100vw;
+  max-height: 100vh;
 }
 
 #photo1 {
-  width: 33%;
-  height: 33%
+  height: 474.75px;
 }
 
 #photo2 {
-  width: 33%;
-  height: 33%
+  width: 500px;
 }
 
 #photo3 {
-  width: 33%;
-  height: 33%
+  width: 560px;
 }
+
   
 
