@@ -51,14 +51,17 @@ strong {
 
 #photo1 {
   height: 474.75px;
+  padding-left: 40%;
+}
+
+#photo2AndForm {
+  width: 500px;
+  padding-left: 25%;
 }
 
 #photo2 {
-  width: 500px;
-}
-
-#photo3 {
-  width: 560px;
+  padding-top: 10%;
+  width: 60%;
 }
 
   
