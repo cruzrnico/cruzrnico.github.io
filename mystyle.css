@@ -40,6 +40,14 @@ strong {
   height: 200px;
 }
 
+#photo1Div {
+  width: 33%;
+}
+
+#photo3Div {
+  width: 33%;
+}
+
 #photo1 {
   width: 33%;
   height: 33%
